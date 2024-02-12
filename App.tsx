@@ -6,6 +6,7 @@ const App: React.FC = () => {
     <View>
       <Text>Hello,sssrld!</Text>
       <Text>blah blah</Text>
+      <Text>blah ah</Text>
 
 
 
